@@ -1,0 +1,9 @@
+commerce_payment.commerce_payment_gateway.plugin.sslcommerz_redirect_checkout:
+  type: commerce_payment_gateway_configuration
+  mapping:
+    store_id:
+      type: string
+      label: 'Store key'
+    store_password:
+      type: string
+      label: 'Store password'

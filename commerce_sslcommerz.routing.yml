@@ -1,0 +1,9 @@
+commerce_sslcommerz.payment_gateway_offsite_form:
+  path: '/admin/config/commerce_sslcommerz/paymentgatewayoffsite'
+  defaults:
+    _form: '\Drupal\commerce_sslcommerz\Form\PaymentGatewayOffsiteForm'
+    _title: 'PaymentGatewayOffsiteForm'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE

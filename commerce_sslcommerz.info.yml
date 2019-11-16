@@ -1,0 +1,7 @@
+name: 'SslCommerz'
+type: module
+description: 'SSLCommerz payment gateway for drupal8 commerce'
+core: 8.x
+package: 'Custom'
+dependencies:
+  - commerce_payment

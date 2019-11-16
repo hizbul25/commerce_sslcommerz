@@ -1,0 +1,18 @@
+{
+    "name": "commerce_sslcommerz",
+    "type": "drupal-module",
+    "description": "Provide commerce integration for sslcommerz",
+    "homepage": "https://www.drupal.org/project/commerce_sslcommerz",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name" : "Engr. Hizbul Bahar",
+            "email" : "hizbul25@gmail.com",
+            "homepage" : "https://github.com/hizbul25",
+            "role" : "developer"
+        }
+    ],
+    "require": {
+        "drupal/commerce": "~2.0",
+    }
+}
